@@ -4,9 +4,10 @@
 
 This project investigates the relationship between TV advertising spending and product sales using a simple linear regression model. The analysis aims to understand and potentially predict the impact of TV advertising expenditure on sales outcomes.
 
-**Dataset**
+**Kaggle Notebook**
 
-* **Source:** TV Marketing Dataset on Kaggle: [https://www.kaggle.com/datasets/devzohaib/tvmarketingcsv/code](https://www.kaggle.com/datasets/devzohaib/tvmarketingcsv/code)
+* My analysis on Kaggle: https://www.kaggle.com/code/jaidasondi/tvmarketingprediction
+
 
 **Data Dictionary**
 
@@ -35,7 +36,4 @@ The model achieved a good fit, with 70% of the variance in sales explained by TV
 * **Feature Engineering:** Incorporate additional factors (e.g.,  radio advertising, newspapers, promotions) to potentially improve the model's accuracy.
 * **Model Exploration:**  Experiment with different regression models or ensemble techniques to see if performance can be further enhanced.
 * **Advanced Visualization:**  Create more visualizations to analyze error patterns and identify areas for improvement.
-
-**Notes**
-* **Please replace any metric placeholders with the actual values calculated for your specific model.**
 
