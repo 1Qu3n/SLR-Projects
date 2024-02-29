@@ -30,4 +30,3 @@ A simple linear regression model was applied to this dataset. The following perf
 * MSE = 15.84664 
 * MAE = 2.9559648 
 * R2 = 0.8173612725580186 
-* Adjusted R2 = 0.8112518785062621 
